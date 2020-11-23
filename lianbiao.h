@@ -1,5 +1,5 @@
-#ifndef lianbiao_h
-#define lianbiao_h
+#ifndef list_h
+#define list_h
 
 #include <stdio.h>
 
